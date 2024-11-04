@@ -1,7 +1,6 @@
 # Sudoku Game
 
-![image](https://github.com/user-attachments/assets/ebc9827f-69a7-4f6f-9c4a-4ccf830a902c)
-
+![image](https://github.com/user-attachments/assets/c906c91a-0ecc-4b8b-8b93-c304fd168aa2)
 
 a 9-by-9 Sudoku puzzle where number 1, 2, 3, 4, 5, 6, 7, 8, and 9 appear only once in a row and column.
 In addition, the 9-by-9 is divided into nine 3-by-3 sub regions, where the number 1 to 9 appear only once.
